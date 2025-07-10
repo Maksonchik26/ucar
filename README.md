@@ -34,7 +34,7 @@ curl "http://127.0.0.1:8000/reviews/?sentiment=positive"
 ```bash
 [
   {
-    "id": 2,
+    "id": 1,
     "text": "Ненавижу интерфейс, очень плохо",
     "sentiment": "negative",
     "created_at": "2025-07-09T12:40:00.000000"
